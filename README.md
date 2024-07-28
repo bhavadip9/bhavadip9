@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavadip9" alt="bhavadip9" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://bmd-portfolio-pink.vercel.app/](https://bmd-portfolio-pink.vercel.app/)
 
 - 💬 Ask me about **react**
@@ -17,7 +19,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/bhavadip-dhandhlya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavadip-dhandhlya/" height="30" width="40" /></a>
 <a href="https://instagram.com/bhavadip_pvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavadip_pvt" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhavadip9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavadip9" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bhavadip_9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavadip_9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhavadip2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhavadip2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
