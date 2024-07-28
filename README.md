@@ -45,7 +45,7 @@
 
 ###
 
-<img src="/snack.svg" alt="Snake animation" />
+<img src="/snack.yml" alt="Snake animation" />
 
 ###
 
