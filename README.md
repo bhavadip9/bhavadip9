@@ -45,7 +45,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bhavadip9/bhavadip9/snack.svg" alt="Snake animation" />
+<img src="/snack.svg" alt="Snake animation" />
 
 ###
 
