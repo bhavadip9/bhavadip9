@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.net**
 
-- 👨‍💻 All of my projects are available at [https://bmd-portfolio-pink.vercel.app/](https://bmd-portfolio-pink.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://bmd-portfolio-pink.vercel.app/](https://bhavadipdev.vercel.app/)
 
 - 💬 Ask me about **react**
 
